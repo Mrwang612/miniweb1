@@ -1,0 +1,1 @@
+sudo python3 web.py 80
